@@ -1,1 +1,1 @@
-HOLA
+El siguiente script de SQL se encarga de crear la base de datos SUPERSTORE y sus 3 tablas (SALES, PRODCUTS, CLIENT)
