@@ -1,1 +1,1 @@
-HOLA
+El siguiente archivo muestra el script usando python para la extracción, transformación y carga de datos del dataset SUPERSTORE
