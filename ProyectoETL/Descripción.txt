@@ -1,0 +1,20 @@
+#  Proyecto de ETL sobre el dataset SUPERSTORE
+
+## En este proyecto se utilizo la siguiente tecnología:
+	-Python (Jupyter Notebook, Pandas, pyodbc)
+	-SQL(CREATE, PK, FK)
+ 	-Power BI (Medidas,Dax,Filtros)
+
+## Implemente un proceso de extracción de data desde un archivo csv, a traves de Python
+   hice la transformación de los datos en distintos dataframes para su limpieza y adecuación para 
+   su posterior carga a la base de datos SUPERSTORE en SQL Server. 
+   
+   Previamente a esto, se creo la base de datos SUPERSTORE en SQL Server, con 3 tablas 
+   (SALES, PRODUCTS, CLIENT) y sus respectivos PK y FK
+
+   Una vez logrado esto , realice un dashboard informativo sobre las principales variables 
+   y puntos de interes sobre el dataset con Power BI, haciendo una conexión directa con SQL Server. 
+   En donde aplique distintos gráficos según la variable, filtros y medidas para mostrar información relevante
+
+##  Contacto  
+ rubenismael.gomezdamian@gmail.com |  [LinkedIn] www.linkedin.com/in/rubén-gómez-272252336
